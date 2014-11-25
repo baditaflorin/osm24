@@ -186,6 +186,7 @@ include("language.php");
                 <li><a id="peruvian"><?php echo PANEL_CUISINE_PERUVIAN;?></a></li>
                 <li><a id="polish"><?php echo PANEL_CUISINE_POLISH;?></a></li>
                 <li><a id="portuguese"><?php echo PANEL_CUISINE_PORTUGUESE;?></a></li>
+                <li><a id="romanian"><?php echo PANEL_CUISINE_ROMANIAN;?></a></li>
                 <li><a id="russian"><?php echo PANEL_CUISINE_RUSSIAN;?></a></li>
                 <li><a id="shandong"><?php echo PANEL_CUISINE_SHANDONG;?></a></li>
                 <li><a id="sichuan"><?php echo PANEL_CUISINE_SICHUAN;?></a></li>
